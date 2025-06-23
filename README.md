@@ -50,6 +50,17 @@ A well-designed booking system is crucial for success. It significantly reduces 
 * Primary Font: Circular, Medium (500), 16px
 * Headings: Circular, Bold (700), 24px-32px
 * Secondary Text: Circular, Book (400), 14px
+## Project Roles and Responsibilities
 
+This project will involve various roles, each contributing to its successful development and deployment:
+
+* **Project Manager:** Oversees the project timeline, coordinates the team, and manages overall deliverables.
+* **Frontend Developers:** Implements UI components, ensures responsive design, and builds the user-facing parts of the application.
+* **Backend Developers:** Builds APIs, manages the database, and implements the business logic on the server side.
+* **Designers:** Creates mockups, maintains the design system, and ensures an optimal user experience (UX) quality.
+* **QA/Testers:** Writes test cases, performs testing, and reports bugs to ensure software quality.
+* **DevOps Engineers:** Manages deployment processes, Continuous Integration/Continuous Delivery (CI/CD) pipelines, and server infrastructure.
+* **Product Owner:** Defines requirements, prioritizes features, and represents the stakeholders' interests.
+* **Scrum Master:** Facilitates agile processes, removes blockers for the team, and organizes team meetings.
 ### Importance of Identifying Design Properties
 Identifying design properties from a mockup, such as color schemes, typography, and spacing, is fundamental for developers. It ensures that the final coded product accurately reflects the designer's vision and maintains visual consistency across the application. These specifications act as a precise blueprint, minimizing guesswork and reducing discrepancies between design and implementation. This attention to detail is crucial for delivering a high-quality, polished user experience.
