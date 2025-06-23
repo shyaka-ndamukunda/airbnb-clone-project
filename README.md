@@ -62,5 +62,22 @@ This project will involve various roles, each contributing to its successful dev
 * **DevOps Engineers:** Manages deployment processes, Continuous Integration/Continuous Delivery (CI/CD) pipelines, and server infrastructure.
 * **Product Owner:** Defines requirements, prioritizes features, and represents the stakeholders' interests.
 * **Scrum Master:** Facilitates agile processes, removes blockers for the team, and organizes team meetings.
+## UI Component Patterns
+
+To ensure reusability, consistency, and maintainability, the following core UI components will be planned and developed for the application:
+
+### Navbar
+* **Elements:** Logo, Search bar, User navigation (e.g., login/signup, profile icon), and a responsive menu for mobile views.
+* **Design Goal:** Intuitive navigation and consistent branding across all pages.
+
+### Property Card
+* **Elements:** Property image, basic details (e.g., price per night, location, rating), and a favorite/save button.
+* **Design Goal:** Engaging visual representation for listings with a responsive layout for grid displays.
+
+### Footer
+* **Elements:** Site links (e.g., About Us, Contact), company information, social media links, and copyright information.
+* **Design Goal:** Provides essential information and navigation at the bottom of every page.
+
+Each of these components will be designed with reusability and consistency in mind to facilitate efficient development and a cohesive user experience across the entire StayEase application.
 ### Importance of Identifying Design Properties
 Identifying design properties from a mockup, such as color schemes, typography, and spacing, is fundamental for developers. It ensures that the final coded product accurately reflects the designer's vision and maintains visual consistency across the application. These specifications act as a precise blueprint, minimizing guesswork and reducing discrepancies between design and implementation. This attention to detail is crucial for delivering a high-quality, polished user experience.
