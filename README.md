@@ -37,3 +37,19 @@ This project aims to build a functional web application that replicates key feat
 
 ### Importance of User-Friendly Design
 A well-designed booking system is crucial for success. It significantly reduces friction in the user journey, making it easier and more enjoyable for users to navigate, find what they need, and complete bookings. This, in turn, helps to increase conversion rates (more bookings) and leads to higher customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical because users expect a seamless experience across all devices.
+### Figma Design Specifications
+
+#### Color Styles:
+* Primary: `#FF5A5F`
+* Secondary: `#008489`
+* Background: `#FFFFFF`
+* Text: `#222222`
+* Secondary Text: `#717171`
+
+#### Typography:
+* Primary Font: Circular, Medium (500), 16px
+* Headings: Circular, Bold (700), 24px-32px
+* Secondary Text: Circular, Book (400), 14px
+
+### Importance of Identifying Design Properties
+Identifying design properties from a mockup, such as color schemes, typography, and spacing, is fundamental for developers. It ensures that the final coded product accurately reflects the designer's vision and maintains visual consistency across the application. These specifications act as a precise blueprint, minimizing guesswork and reducing discrepancies between design and implementation. This attention to detail is crucial for delivering a high-quality, polished user experience.
